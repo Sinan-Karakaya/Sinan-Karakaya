@@ -68,7 +68,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/Sinan-Karakaya/Sinan-Karakaya/output/snake.svg" alt="Snake animation" />
-
-###
