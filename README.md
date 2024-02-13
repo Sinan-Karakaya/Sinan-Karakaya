@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2003<br>📚 I'm currently learning Rust !<br>🎯 Goals: Getting my degree (2 more years !)<br>🎲 Fun fact: I don't code at night</p>
+<p align="left">✨ Creating bugs since 2003<br>📚 Currently working at OVHcloud ! !<br>🎯 Goals: Getting my degree (2 more years !)<br>🎲 Fun fact: I don't code at night</p>
 
 ###
 
