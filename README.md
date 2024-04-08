@@ -18,16 +18,6 @@
   </a>
 </div>
 
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since 2003<br>📚 Currently working at OVHcloud ! !<br>🎯 Goals: Getting my degree (2 more years !)<br>🎲 Fun fact: I don't code at night</p>
-
-###
-
 <div align="center">
   <a href="https://open.spotify.com/user/jeewrmdyz64bdasbdrwfp8akx">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=jeewrmdyz64bdasbdrwfp8akx&count=5&unique=true" alt="Spotify recently played"  />
